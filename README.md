@@ -12,17 +12,19 @@
 
 ## 使用方法
 
+- **访问我们的网站（推荐！）**：该仓库的笔记都已在我们的网站上部署 [*网页链接：Notes*](https://notes.owo.cab/) ，直接来我们的站内获得最好的阅读体验！
+
 - **克隆**：如果想使用偏好的软件进行阅读，可以将该仓库克隆到本地。由于该仓库中的笔记目前都使用 VS code （并使用扩展）记录，因此可以保证在 VS code 上（并使用扩展）预览时格式的正确性。
   
   *使用的扩展：*
-  - 名称: Markdown All in One
-    ID: yzhang.markdown-all-in-one
-  - 名称: Markdown Math
-    ID: koehlma.markdown-math
-  - 名称: Markdown Preview Enhanced
-    ID: shd101wyy.markdown-preview-enhanced
+  - **名称**: Markdown All in One
+    **ID**: yzhang.markdown-all-in-one
+  - **名称**: Markdown Math
+    **ID**: koehlma.markdown-math
+  - **名称**: Markdown Preview Enhanced
+    **ID**: shd101wyy.markdown-preview-enhanced
 
-- **直接预览**：（ **不建议！** ）可直接在 GitHub 上预览所有 Markdown 文件。
+- **直接预览（不建议！）**：可直接在 GitHub 上预览所有 Markdown 文件。
   > *已知存在显示或排版问题。虽然本仓库为所有 Markdown 文件的许多处都做了 GitHub 网页预览的适配，但仍有一部分问题无法解决，并可能会十分影响阅读！*
 
 ## 贡献指南
